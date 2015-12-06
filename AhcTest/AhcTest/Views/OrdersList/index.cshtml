@@ -1,0 +1,119 @@
+﻿@{  
+ViewBag.Title = "Index";
+  
+}  
+@using AhcTest.Models;  
+@model List<AhcTest.Models.OrdersModel.Orders>
+
+
+
+<h2>Order Summary</h2>
+<h3>Week Over Week</h3>
+<div id="myfirstchart" style="height: 250px;"></div>
+<table id="Totals">
+    <tr>
+        <td class="totals">
+           <div class="money">
+                $@Html.DisplayFor(modelItem => Model[0].AverageOrdered)
+                <label>
+                    Average Order Amount
+                </label>
+           </div>
+        </td>
+        <td class="totals">
+            <div class="money">
+                $@Html.DisplayFor(modelItem => Model[0].TotalOrdered)
+                <label>
+                    Total Order Amount
+                </label>
+            </div>
+        </td>
+        <td class="totals">
+            <div class="money">
+                $@Html.DisplayFor(modelItem => Model[0].AverageShipped)
+                <label>
+                    Average Shipped Amount
+                </label>
+            </div>
+        </td>
+        <td class="totals">
+            <div class="money">
+                $@Html.DisplayFor(modelItem => Model[0].TotalShipped)
+                <label>
+                    Total Shipped Amount
+                </label>
+            </div>
+        </td>
+    </tr>
+</table>
+
+     
+<table id="OrderSummary">  
+    <tr>  
+        <th>Period</th>  
+        <th>Ordered</th>  
+        <th>Shipped</th>  
+        <th>Remainder</th>
+        <th>Total Ordered Amount</th>
+        <th>Total Shipped Amount</th>
+    </tr>  
+@foreach (var item in Model)  
+{
+    int remainder = item.Ordered - item.Shipped;
+    string remainderString = remainder.ToString();
+    if (remainder < 0)
+    {
+        remainderString = "(" + Math.Abs(remainder).ToString() + ")";
+    }
+    
+    
+    <tr>  
+        <td>  
+            @Html.DisplayFor(modelItem => item.PeriodLabel)  
+        </td>  
+        <td>  
+            @Html.DisplayFor(modelItem => item.Ordered)  
+        </td>  
+        <td>  
+            @Html.DisplayFor(modelItem => item.Shipped)  
+        </td>
+        <td>  
+            @Html.DisplayFor(modelItem => remainderString)
+        </td>
+        <td>  
+            @Html.DisplayFor(modelItem => item.TotalAmountOrdered)  
+        </td>
+        <td>  
+            @Html.DisplayFor(modelItem => item.TotalAmountShipped)  
+        </td>
+    </tr>  
+}  
+</table>
+
+
+    @{String LongString = "";}
+    @foreach (var item in Model[0].ChartData)
+    {
+
+        LongString += "{ PeriodLabel: '" + @Html.DisplayFor(chartItem => item.PeriodLabel) + "'," + "TotalOrderedAmount: '" + @Html.DisplayFor(chartItem => item.TotalAmountOrdered) + "', " + "TotalShippedAmount: '" + @Html.DisplayFor(chartItem => item.TotalAmountShipped) + "'},\n"; 
+    }  
+    @{LongString = LongString.Remove(LongString.Length - 2);}
+
+        
+<script type="text/javascript">
+    new Morris.Bar({
+        // ID of the element in which to draw the chart.
+        element: 'myfirstchart',
+        // Chart data records -- each entry in this array corresponds to a point on
+        // the chart.
+        data: [
+        
+            @Html.Raw(LongString)
+
+        ],
+        // The name of the data record attribute that contains x-values.
+        xkey: 'PeriodLabel',
+        ykeys: ['TotalOrderedAmount', 'TotalShippedAmount'],
+        labels: ['Series A', 'Series B']
+    });
+</script>

@@ -1,0 +1,94 @@
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\AhcTest.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\AhcTest.pdb
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\Antlr3.Runtime.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.AspNet.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.Core.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.OAuth.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.OpenId.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\EntityFramework.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\Newtonsoft.Json.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Net.Http.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Net.Http.WebRequest.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.Helpers.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.Mvc.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.Optimization.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.Razor.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.WebPages.Deployment.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.WebPages.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.WebPages.Razor.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\WebGrease.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\WebMatrix.Data.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\WebMatrix.WebData.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\EntityFramework.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\Newtonsoft.Json.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Net.Http.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Net.Http.WebRequest.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.Helpers.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.Mvc.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.Razor.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.WebPages.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.WebPages.Deployment.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\System.Web.WebPages.Razor.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\WebMatrix.Data.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\WebMatrix.WebData.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.AspNet.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.Core.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.OAuth.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.OpenId.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\obj\Debug\AhcTest.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest\obj\Debug\AhcTest.pdb
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\AhcTest.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\AhcTest.pdb
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\Antlr3.Runtime.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.Core.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\EntityFramework.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\Newtonsoft.Json.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Net.Http.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Net.Http.WebRequest.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.Helpers.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.Mvc.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.Optimization.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.Razor.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.WebPages.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\WebGrease.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\WebMatrix.Data.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\WebMatrix.WebData.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\EntityFramework.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\Newtonsoft.Json.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Net.Http.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Net.Http.WebRequest.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.Helpers.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.Mvc.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.Razor.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.WebPages.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\WebMatrix.Data.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\WebMatrix.WebData.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.Core.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\obj\Debug\AhcTest.csprojResolveAssemblyReference.cache
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\obj\Debug\AhcTest.dll
+C:\Users\mike\Documents\GitHub\LumberjackSurgeon\AhcTest\AhcTest\obj\Debug\AhcTest.pdb

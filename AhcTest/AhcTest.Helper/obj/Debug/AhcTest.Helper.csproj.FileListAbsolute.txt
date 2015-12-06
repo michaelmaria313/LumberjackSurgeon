@@ -1,0 +1,5 @@
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest.Helper\bin\Debug\AhcTest.Helper.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest.Helper\bin\Debug\AhcTest.Helper.pdb
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest.Helper\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest.Helper\obj\Debug\AhcTest.Helper.dll
+c:\users\mike\documents\visual studio 2010\Projects\AhcTest\AhcTest.Helper\obj\Debug\AhcTest.Helper.pdb
